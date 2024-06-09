@@ -1,0 +1,34 @@
+{
+  "blogs": [
+    {
+      "id": "1",
+      "title": "lorem ipsum"
+    }
+  ],
+  "user": [
+    {
+      "id": "cf94",
+      "name": "sadf",
+      "surname": "asdf"
+    }
+  ],
+  "products": [
+    {
+      "id": "1",
+      "title": "galaxy",
+      "price": {
+        "old": 300,
+        "new": 400
+      },
+      "category": "phone",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREoRGyXmHy_6aIgXYqWHdOT3KjfmnuSyxypw&s"
+    },
+    {
+      "id": "c1e9",
+      "title": "asdf",
+      "price": "asdf",
+      "category": "item",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0gBFQUzHGPmzWRpMe2CDA0UjUnEAYSsTJsQ&s"
+    }
+  ]
+}
